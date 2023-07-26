@@ -41,7 +41,7 @@
 				</div>
 			</div>
 
-			
+
 
 
 
@@ -191,7 +191,7 @@
 						</div>
 					</section>
 
-					
+
 
 					<!--awal  contact -->
 					<a id="contact"></a>
@@ -219,7 +219,7 @@
 													<textarea class="form-control" placeholder="Pesan" required="" rows="3"></textarea>
 												</div>
 											</div>
-											<button class="btn btn-warning btn-lg btn-block mt-3" type="button">Kirim</button>
+											<button class="btn btn-primary btn-lg btn-block mt-3" type="button">Kirim</button>
 										</div>
 									</form>
 								</div>
